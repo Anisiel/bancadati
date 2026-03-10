@@ -1,0 +1,13 @@
+# Non caricare file Excel
+input_excel/*.xlsx
+input_excel/*.xlsm
+input_excel/*.xls
+
+# Cartelle generate dal sistema
+database/measures/
+database/imprese/
+database/meta/
+
+__pycache__/
+*.pyc
+.env
